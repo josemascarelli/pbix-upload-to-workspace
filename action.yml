@@ -1,0 +1,6 @@
+name: PBIX upload to PBI workspace
+description: This action uploads a PBIX file to any Power BI workspace.
+author: 'José Mascarelli'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
